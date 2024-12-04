@@ -9,3 +9,4 @@ const cliente = {
 }
 
 console.log(cliente.nome);
+console.log(cliente.endereco.logradouro)
